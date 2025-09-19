@@ -1,8 +1,9 @@
-FROM node:20 as build-stage
+FROM node:20
+
 RUN apt-get update && apt-get install -y 
+
+COPY . /app
+
 WORKDIR /app
-COPY package*.json ./
-RUN npm install
-COPY ./ .
-RUN npm run build
-COPY --from=build-stage /app/dist /www
+
+CMD ["npm", "run", "build:prod"]
