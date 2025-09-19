@@ -1,0 +1,54 @@
+// global scss file
+
+$page-width: 60%;
+$bkg-primary: #f5f5f5;
+$bkg-secondary: #f0f0f0;
+$txt-primary: #333;
+$txt-secondary: #666;
+$txt-tertiary: #b4b2b2;
+$txt-link: #507ac9;
+
+* {
+    @font-face {
+        font-family: Lato;
+        src: url("@/assets/fonts/Lato400.ttf");
+    }
+    @font-face {
+        font-family: BodoniModa;
+        src: url("@/assets/fonts/BodoniModa500.ttf");
+    }
+    body, html {
+        background-color: $bkg-primary;
+        font-family: Lato, sans-serif;
+        margin: 0;
+        padding: 0;
+    }
+
+    h1, h2, h3, h4, h5, h6 {
+        font-family: BodoniModa, serif;
+        color: $txt-primary;
+        margin: 0;
+    }
+    h1 {
+        font-size: 3em;
+        letter-spacing: 0.1em;
+    }
+    p, a, li {
+        font-family: Lato, sans-serif;
+        color: $txt-secondary;
+        margin: 0;
+    }
+    button {
+        font-family: Lato, sans-serif;
+        color: $txt-primary;
+        background-color: transparent;
+        border: 1px solid tr;
+        padding: 0.5em 1em;
+        transition: 0.3s;
+        cursor: pointer;
+        &:hover {
+            color: $txt-link;
+            border: 1px solid $txt-link;
+        }
+    }
+}

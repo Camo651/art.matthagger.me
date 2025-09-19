@@ -1,0 +1,430 @@
+[
+    {
+      "src": "/images/traditional/snej.jpg",
+      "title": "SNJ Cafe",
+      "medium": "Ink & Watercolor",
+      "tags": [
+        "traditional"
+      ],
+      "elements": [],
+      "id": 0
+    },
+    {
+      "src": "/images/traditional/boots.jpg",
+      "title": "Boots",
+      "medium": "Ink & Watercolor",
+      "tags": [
+        "traditional"
+      ],
+      "elements": [],
+      "id": 1
+    },
+    {
+      "src": "/images/traditional/backpack.jpg",
+      "title": "Backpack",
+      "medium": "Ink & Watercolor",
+      "tags": [
+        "traditional"
+      ],
+      "elements": [
+        {
+          "text": "This is a sketch of my daily carry backpack. I've had it for a few years now and it's been through a lot."
+        },
+        {
+          "img": "/images/traditional/backpack-process.jpg",
+          "caption": "Some sketches before the final drawing."
+        }
+      ],
+      "id": 2
+    },
+    {
+      "src": "/images/wood/urns.jpg",
+      "title": "Urn Collection",
+      "medium": "Assorted Woods",
+      "tags": [
+        "wood"
+      ],
+      "elements": [
+        {
+          "text": "By far my largest collection of work. These urns with their intricate finials and segmented bodies are a joy to make."
+        },
+        {
+          "img": "/images/wood/urn1.jpg",
+          "caption": "Ash and Wenge"
+        },
+        {
+          "img": "/images/wood/urn2.jpg",
+          "caption": "The first urn I made. Ash, Purpleheart, Rosewood, Wenge"
+        },
+        {
+          "img": "/images/wood/urn3.jpg",
+          "caption": "Spalted Beech and Black Ebony"
+        },
+        {
+          "img": "/images/wood/urn4.jpg",
+          "caption": "American Walnut and Ash"
+        },
+        {
+          "img": "/images/wood/urn5.jpg",
+          "caption": "Redheart and Ash"
+        },
+        {
+          "img": "/images/wood/urn6.jpg",
+          "caption": "American Walnut"
+        },
+        {
+          "img": "/images/wood/urn7.jpg",
+          "caption": "Walnut, Olive, Black Ebony"
+        },
+        {
+          "img": "/images/wood/urn8.jpg",
+          "caption": "Ash, Black Ebony, Tigerwood"
+        }
+      ],
+      "id": 3
+    },
+    {
+      "src": "/images/wood/copper1.jpg",
+      "title": "Copper Collection",
+      "medium": "Copper, Beech, Ash",
+      "tags": [
+        "wood"
+      ],
+      "elements": [
+        {
+          "text": "This collection weaves copper wire into the natural cracks of the wood to give it a unique look as well as a functional purpose of holding the pieces together."
+        },
+        {
+          "img": "/images/wood/copper2.jpg"
+        },
+        {
+          "img": "/images/wood/copper3.jpg"
+        },
+        {
+          "img": "/images/wood/copper4.jpg"
+        }
+      ],
+      "id": 4
+    },
+    {
+      "src": "/images/traditional/civbuild.jpg",
+      "title": "Civ Bridge",
+      "medium": "Ink & Watercolor",
+      "tags": [
+        "traditional"
+      ],
+      "elements": [
+        {
+          "text": "This is a drawing of a settled bridge concept architecture based on the bird of paradise flower."
+        }
+      ],
+      "id": 5
+    },
+    {
+      "src": "/images/traditional/coffeeshop2.jpg",
+      "title": "Korean Coffee Shop",
+      "medium": "Ink & Watercolor",
+      "tags": [
+        "traditional"
+      ],
+      "elements": [],
+      "id": 6
+    },
+    {
+      "src": "/images/traditional/hookbuild.jpg",
+      "title": "Hook House",
+      "medium": "Ink & Watercolor",
+      "tags": [
+        "traditional"
+      ],
+      "elements": [],
+      "id": 7
+    },
+    {
+      "src": "/images/wood/winged.jpg",
+      "title": "Winged Bowl",
+      "medium": "Black Locust",
+      "tags": [
+        "wood"
+      ],
+      "elements": [],
+      "id": 8
+    },
+    {
+      "src": "/images/traditional/guardian.jpg",
+      "title": "The Guardian",
+      "medium": "Acrylic on loose canvas",
+      "tags": [
+        "traditional"
+      ],
+      "elements": [
+        {
+          "text": "This is a painting of a guardian from the game Stray."
+        }
+      ],
+      "id": 9
+    },
+    {
+      "src": "/images/traditional/horsefarm.jpg",
+      "title": "Horse Farm",
+      "medium": "Ink & Watercolor",
+      "tags": [
+        "traditional"
+      ],
+      "elements": [
+        {
+          "text": "This is a drawing of a local horse farm I would pass by on my way to work."
+        }
+      ],
+      "id": 10
+    },
+    {
+      "src": "/images/traditional/building.jpg",
+      "title": "Concept Sketches",
+      "medium": "Ink",
+      "tags": [
+        "traditional"
+      ],
+      "elements": [
+        {
+          "text": "These are some concept sketches for various projects I've worked on. I love the process of creating something from nothing."
+        },
+        {
+          "img": "/images/traditional/coffeeshop.jpg",
+          "caption": "A cozy coffee shop."
+        },
+        {
+          "img": "/images/traditional/cypun.jpg",
+          "caption": "A cyberpunk tower."
+        },
+        {
+          "img": "/images/traditional/lighthouse.jpg",
+          "caption": "A crumbling lighthouse being held up by posts."
+        },
+        {
+          "img": "/images/traditional/wall.jpg",
+          "caption": "Backlog of traffic entering the walled city."
+        },
+        {
+          "img": "/images/traditional/wall-process.jpg",
+          "caption": "Some sketches before the final wall drawing."
+        }
+      ],
+      "id": 11
+    },
+    {
+      "src": "/images/wood/bowl1.jpg",
+      "title": "Natural Edge Bowl",
+      "medium": "Hickory",
+      "tags": [
+        "wood"
+      ],
+      "elements": [],
+      "id": 12
+    },
+    {
+      "src": "/images/traditional/telescope.jpg",
+      "title": "Telescope",
+      "medium": "Ink & Watercolor",
+      "tags": [
+        "traditional"
+      ],
+      "elements": [
+        {
+          "text": "A drawing for Discover of Inktober"
+        },
+        {
+          "img": "/images/traditional/telescope-process.jpg",
+          "caption": "Some sketches before the final drawing."
+        }
+      ],
+      "id": 13
+    },
+    {
+      "src": "/images/traditional/tulo.jpg",
+      "title": "Lines",
+      "medium": "Ink & Gouache",
+      "tags": [
+        "traditional"
+      ],
+      "elements": [
+        {
+          "text": "This is a painting of a scene from an evening in Germany."
+        }
+      ],
+      "id": 14
+    },
+    {
+      "src": "/images/traditional/blitz.jpg",
+      "title": "Nodenium Builds",
+      "medium": "Ink",
+      "tags": [
+        "traditional"
+      ],
+      "elements": [
+        {
+          "text": "These drawings come from creations others have made on my Minecraft server. I've always loved the creativity and dedication that goes into building these structures."
+        },
+        {
+          "img": "/images/traditional/frost.jpg",
+          "caption": "Frost's cozy earthen cabin."
+        },
+        {
+          "img": "/images/traditional/vyruz.jpg",
+          "caption": "Vyruz's renovated church."
+        }
+      ],
+      "id": 15
+    },
+    {
+      "src": "/images/wood/bowl2.jpg",
+      "title": "Tightrope",
+      "medium": "Beech, Copper, Enamel Paint",
+      "tags": [
+        "wood"
+      ],
+      "elements": [
+        {
+          "text": "This bowl was inspired by Ulf Jansson's work. I wanted to create a piece that was both functional and visually interesting."
+        }
+      ],
+      "id": 16
+    },
+    {
+      "src": "/images/wood/zipper3.jpg",
+      "title": "Zipper Collection",
+      "medium": "Assorted Woods",
+      "tags": [
+        "wood"
+      ],
+      "elements": [
+        {
+          "text": "This collection incorporates the use of zippers to create a unique look and feel to the pieces."
+        },
+        {
+          "img": "/images/wood/zipper1.jpg"
+        },
+        {
+          "img": "/images/wood/zipper3.jpg"
+        }
+      ],
+      "id": 17
+    },
+    {
+      "src": "/images/wood/boxelder2.jpg",
+      "title": "Box Elder",
+      "medium": "Flaming Box Elder",
+      "tags": [
+        "wood"
+      ],
+      "elements": [
+        {
+          "text": "This wood was a piece of flaming box elder reclaimed from a local art museum. I wanted to create a piece that showcased the natural beauty of the wood."
+        },
+        {
+          "img": "/images/wood/boxelder1.jpg"
+        },
+        {
+          "img": "/images/wood/boxelder3.jpg"
+        }
+      ],
+      "id": 18
+    },
+    {
+      "src": "/images/wood/glass1.jpg",
+      "title": "",
+      "medium": "Glass, Ash",
+      "tags": [
+        "wood"
+      ],
+      "elements": [
+        {
+          "text": "Made with glass stir rods meant for chemistry labs."
+        },
+        {
+          "img": "/images/wood/glass2.jpg"
+        }
+      ],
+      "id": 19
+    },
+    {
+      "src": "/images/wood/rod1.jpg",
+      "title": "Threaded",
+      "medium": "Ash, Bolivian Rosewood",
+      "tags": [
+        "wood"
+      ],
+      "elements": [
+        {
+          "text": "This piece was inspired by the idea of threading wood together. The rod is made from Bolivian rosewood and the base is ash."
+        },
+        {
+          "img": "/images/wood/rod2.jpg"
+        },
+        {
+          "img": "/images/wood/rod3.jpg"
+        }
+      ],
+      "id": 20
+    },
+    {
+      "src": "/images/wood/belt.jpg",
+      "title": "Belt Bowls",
+      "medium": "Oak & Leather",
+      "tags": [
+        "wood"
+      ],
+      "elements": [],
+      "id": 21
+    },
+    {
+      "src": "/images/wood/vase2.jpg",
+      "title": "Tulip Vase",
+      "medium": "Ash",
+      "tags": [
+        "wood"
+      ],
+      "elements": [],
+      "id": 22
+    },
+    {
+      "src": "/images/traditional/apple.jpg",
+      "title": "Apple",
+      "medium": "Graphite",
+      "tags": [
+        "traditional"
+      ],
+      "elements": [],
+      "id": 23
+    },
+    {
+      "src": "/images/traditional/doodles.jpg",
+      "title": "Object Studies",
+      "medium": "Ink",
+      "tags": [
+        "traditional"
+      ],
+      "elements": [
+        {
+          "text": "These are some object studies I did to practice my inking skills."
+        },
+        {
+          "img": "/images/traditional/doodles2.jpg"
+        },
+        {
+          "img": "/images/traditional/elephantbush.jpg"
+        }
+      ],
+      "id": 24
+    },
+    {
+      "src": "/images/wood/vase3.jpg",
+      "title": "Widemouthed Vessel",
+      "medium": "Hickory",
+      "tags": [
+        "wood"
+      ],
+      "elements": [],
+      "id": 25
+    }
+  ]
