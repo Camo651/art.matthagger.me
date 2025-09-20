@@ -6,6 +6,4 @@ COPY . /app
 
 WORKDIR /app
 
-ENV NODE_ENV=development
-
 CMD ["npm", "run", "build:prod"]
