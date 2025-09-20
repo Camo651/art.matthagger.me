@@ -6,7 +6,6 @@ COPY . /app
 
 WORKDIR /app
 
-RUN npm install -g @vue/cli
-RUN npm install -g @vue/cli-service-global
+ENV NODE_ENV=development
 
 CMD ["npm", "run", "build:prod"]
